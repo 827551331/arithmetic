@@ -64,7 +64,7 @@ public class QuickSort {
     }
 
     public static void main(String[] args) {
-        int[] arr = {6, 8, 5, 4, 99, 52, 14, 32, 26, 45};
+        int[] arr = {61, 18, 53, 4, 90, 1, 99, 52, 14, 32, 26, 45};
         quickSort(arr, 0, arr.length - 1);
         printArr(arr);
     }
