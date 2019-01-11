@@ -48,6 +48,7 @@ public class QuickSort {
 
     /**
      * 排序方法
+     * 排序方法（使用递归）
      *
      * @param arr
      * @param left
